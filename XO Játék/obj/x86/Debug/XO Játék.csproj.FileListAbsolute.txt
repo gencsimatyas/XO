@@ -1,0 +1,23 @@
+D:\Programozás\Programok\XO\XO Játék\XO Játék\bin\Debug\XO Játék.exe
+D:\Programozás\Programok\XO\XO Játék\XO Játék\bin\Debug\XO Játék.pdb
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Form1.resources
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Properties.Resources.resources
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\XO Játék.exe
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\XO Játék.pdb
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Form2.resources
+D:\Programozás\Programok\XO\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Form3.resources
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\XO Játék.exe
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\XO Játék.pdb
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\bin\Debug\XO Játék.exe
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\bin\Debug\XO Játék.pdb
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Form1.resources
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Form2.resources
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Form3.resources
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Properties.Resources.resources
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gencsi Matyas\Desktop\New folder\XO Játék\XO Játék\obj\x86\Debug\XO_Játék.Form4.resources
